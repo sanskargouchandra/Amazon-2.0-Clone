@@ -25,6 +25,7 @@
     "react-hot-toast": "^2.4.0",
     "react-redux": "7.2.2",
     "react-responsive-carousel": "^3.2.23",
+    "react-scripts": "^5.0.1",
     "stripe": "^11.14.0",
     "vercel": "^28.18.1"
   },
