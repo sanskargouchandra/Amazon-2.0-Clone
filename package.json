@@ -6,6 +6,7 @@
     "build": "next build",
     "start": "next start",
     "build": "babel src -d lib",
+     "prebuild": "jest",
     "lint": "next lint"
   },
   "dependencies": {
